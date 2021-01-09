@@ -1,3 +1,6 @@
+Date: January 9, 2021
+Author: Mali Halac
+
 ####Brain Tumor Image Segmentation with UNET#####
 
 0. You can use FSLeyes software to visualize .nii files. 
